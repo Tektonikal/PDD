@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "playerdistance",
+  "version": "${version}",
+  "name": "playerdistance",
+  "description": "See the distance to the closest player!",
+  "authors": ["Tektonikal"],
+  "contact": {},
+  "license": "LGPL-3.0",
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "tektonikal.playerdistance.Playerdistance"
+    ]
+  },
+  "mixins": [
+    "playerdistance.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,12 @@
+{
+"playerdistance.midnightconfig.title":"Player Distance",
+"playerdistance.midnightconfig.enum.Pos.CENTER": "Center",
+  "playerdistance.midnightconfig.enum.Pos.TOP_RIGHT": "Top Right",
+  "playerdistance.midnightconfig.enum.Pos.TOP_LEFT": "Top Left",
+  "playerdistance.midnightconfig.enum.Pos.BOTTOM_RIGHT": "Bottom Right",
+  "playerdistance.midnightconfig.enum.Pos.BOTTOM_LEFT": "Bottom Left",
+  "playerdistance.midnightconfig.enum.Modes.RAYCAST": "Raycast",
+  "playerdistance.midnightconfig.enum.Modes.DISTANCE": "Distance",
+  "playerdistance.midnightconfig.enum.ColorModes.CANATTACK": "Can attack",
+  "playerdistance.midnightconfig.enum.ColorModes.CANREACH": "Can reach"
+}
